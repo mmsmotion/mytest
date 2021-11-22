@@ -1,0 +1,1 @@
+alert("min ga lar par")
